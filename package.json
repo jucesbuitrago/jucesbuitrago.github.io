@@ -1,7 +1,7 @@
 {
-  "name": "jucesbuitrago.github.io",
+  "name": "cv",
   "version": "0.1.0",
-  "homepage": "https://jucesbuitrago.github.io",
+  "homepage": "https://jucesbuitrago.github.io/cv",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
